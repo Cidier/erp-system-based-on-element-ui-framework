@@ -1,5 +1,5 @@
 this is my previous student final course project for ERP courses, I use vue-admin-template as a front-end framework to help me finish it.
-Here are the screenshots of this system
+Here are the screenshots of this system.
 
 
 # vue-admin-template
