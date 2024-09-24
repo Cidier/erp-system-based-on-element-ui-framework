@@ -1,3 +1,7 @@
+this is my previous student final course project for ERP courses, I use vue-admin-template as a front-end framework to help me finish it.
+Here are the screenshots of this system
+
+
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
